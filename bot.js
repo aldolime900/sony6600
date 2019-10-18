@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`محمدالعراقي`,)
+client.user.setGame(`#bc| محمدالعراقي`,)
 client.user.setStatus("dnd")
 });
 
